@@ -26,5 +26,19 @@ Game PortFolio
 - MetaVerse Project : Unity
 - Shooting Game : Python [ AI Class 팀 프로젝트 개발 예정 ]
 
+## Book Organize Information
+
+- [AI 청소년을 위한 최강의 수업]
+  - [책 정보 - YES24](https://cremaclub.yes24.com/BookClub/Detail/105245103)
+
+- [인크립션 : 실용주의 암호학]
+  - [책 정보 - YES24](https://www.yes24.com/Product/Goods/32439157)
+
+## Repositories
+
+
+## AI Class
+
+## Metaverse
 
 #### Image List
