@@ -22,9 +22,9 @@ ICT Convergence - MS
 
 Game PortFolio
 - CSGP (ConSole Game Pack) : C++ [ 현재 개발 완료 ]
+- Shooting Game : Python [ 현재 개발 완료 ]
 
 - MetaVerse Project : Unity
-- Shooting Game : Python [ AI Class 팀 프로젝트 개발 예정 ]
 
 ## Book Organize Information
 
