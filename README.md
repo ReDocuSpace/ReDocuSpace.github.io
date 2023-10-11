@@ -20,12 +20,12 @@ ICT Convergence - MS
 
 ## vocational training academy - Game Programming Class
 
-- git : [Game Development Class](#https://github.com/ReDocuSpace/GameDevelopmentClass) 
+- git : [Game Development Class](https://github.com/ReDocuSpace/GameDevelopmentClass) 
 #### PortFolio
 
 ## vocational training academy - AI Class
 
-- git : [AI Class](#https://github.com/ReDocuSpace/AIClass)
+- git : [AI Class](https://github.com/ReDocuSpace/AIClass)
 #### PortFolio
 
 ## PortFolio
