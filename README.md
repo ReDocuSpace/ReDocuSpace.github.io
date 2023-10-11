@@ -20,13 +20,26 @@ ICT Convergence - MS
 
 ## vocational training academy - Game Programming Class
 
-- git : [Game Development Class](https://github.com/ReDocuSpace/GameDevelopmentClass) 
-#### PortFolio
+- git : [Game Development Class](https://github.com/ReDocuSpace/GameDevelopmentClass)
+- period : 2019.09.02 - 2020.03.23
+
+### PortFolio
 
 ## vocational training academy - AI Class
 
 - git : [AI Class](https://github.com/ReDocuSpace/AIClass)
-#### PortFolio
+- period : 2023.09.13 - 2024.04.25
+
+### PortFolio
+- [ShootingGame](https://github.com/ReDocuSpace/AIClass/tree/main/Python/Python_Project)
+ 
+## Single Study Project
+
+- C/C++/WINAPI/DIRECT3
+    - CSGP(ConSole Game Pack) Project
+- USE_ENGINE (UNITY / Unreal)
+
+### PortFolio
 
 ## PortFolio
 
