@@ -18,6 +18,18 @@ ICT Convergence - MS
     - Human Interaction of Environmental Factor for Virtual Environment [Virtual Reality]
 
 
+## vocational training academy
+
+### Game Programming Class
+
+#### [Game Development Class](#https://github.com/ReDocuSpace/GameDevelopmentClass) 
+#### PortFolio
+
+### AI Class
+
+#### [AI Class](#https://github.com/ReDocuSpace/AIClass)
+#### PortFolio
+
 ## PortFolio
 
 Game PortFolio
