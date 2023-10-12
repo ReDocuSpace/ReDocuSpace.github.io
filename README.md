@@ -6,7 +6,13 @@
 - NickName : Re_Docu
 - Main : Game Client Programming
   - sub : Human Computer Interaction ( ICT Convergence )
- 
+- Use Language
+  - [2020.07 - 2021.12] Unity - C#
+  - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint
+
+- PortFolio
+  - [2023.09 - 2023.10] Pygame - Python
+  
 ## Career
 
 Game Client Programming
@@ -16,6 +22,15 @@ Game Client Programming
 ICT Convergence - MS
 - Human - Computer Interaction , Data Analysis or Experimental Research
     - Human Interaction of Environmental Factor for Virtual Environment [Virtual Reality]
+
+## License
+- 정보처리 산업기사 [Industrial Enginner Infomation Processing] (2016. 04. 24) 
+
+## License Goal [ not achieved ]
+- 컴퓨터활용능력 1급 [Computer Specialist in Spreadsheet and DataBase] (2023.12)
+- 정보처리 기사 [Enginner Infomation Processing] (2024. 3)
+- SQLD (2024.3) -> SQLP (2024.8)
+
 
 
 ## vocational training academy - Game Programming Class
@@ -29,6 +44,8 @@ ICT Convergence - MS
 
 - git : [AI Class](https://github.com/ReDocuSpace/AIClass)
 - period : 2023.09.13 - 2024.04.25
+- User Language : Python, JAVA, JavaScript, MySQL
+- License
 
 ### PortFolio
 - [ShootingGame](https://github.com/ReDocuSpace/AIClass/tree/main/Python/Python_Project)
