@@ -50,6 +50,7 @@ ICT Convergence - MS
 
 - git : [Game Development Class](https://github.com/ReDocuSpace/GameDevelopmentClass)
 - period : 2019.09.02 - 2020.03.23
+- User Language : C / C++ / C# / WINAPI / Unity
 
 ### PortFolio
 
