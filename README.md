@@ -6,12 +6,25 @@
 - NickName : Re_Docu
 - Main : Game Client Programming
   - sub : Human Computer Interaction ( ICT Convergence )
-- Use Language
-  - [2020.07 - 2021.12] Unity - C#
-  - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint
+ 
+- Use Language [Stydy]
+  - C/C++, C#, Unity [2019.09 - 2020.04]
+  - Python, JAVA [2023.09 - 2024.04]
 
-- PortFolio
-  - [2023.09 - 2023.10] Pygame - Python
+- Use Language [Working]
+  - [2020.07 - 2021.12] Unity - C# [AR Contents Development]
+  - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint [Autonomous Driving]
+
+- Single Project
+  - PortFolio
+    - [2023.07 - 2023.07] CSGP - C/C++
+
+- Game Programming
+  - PortFolio
+
+- AIClass
+  - PortFolio
+    - [2023.09 - 2023.10] ShootingGame - Python
   
 ## Career
 
