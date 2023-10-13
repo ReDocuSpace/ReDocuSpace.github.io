@@ -1,5 +1,4 @@
-# redocuspace.github.io
-
+# Introduce
 
 ## Profile 
 
@@ -18,21 +17,23 @@
 - Single Project
   - PortFolio
     - [2023.07 - 2023.07] CSGP - C/C++
-
+    - [2023.10.02 - ] Metaverse Project - Unity
 - Game Programming
   - PortFolio
 
 - AIClass
   - PortFolio
-    - [2023.09 - 2023.10] ShootingGame - Python
+    - [2023.09.21 - 2023.10.10] (Team) ShootingGame - Python
+    - [2023.10.16 - ] (Single) JAVAProject - JAVA
+    - [2023.10.?] (Team)
   
 ## Career
 
 Game Client Programming
-- AR Contents [Full-Time worker] : 1 year 6 month
-- Autonomous Driving Simulation Contents [contract worker] : 1 year
+- AR Contents [Full-Time Worker] : 1 year 6 month
+- Autonomous Driving Simulation Contents [Contract Worker] : 1 year
   
-ICT Convergence - MS
+ICT Convergence - MS(Masters Degree)
 - Human - Computer Interaction , Data Analysis or Experimental Research
     - Human Interaction of Environmental Factor for Virtual Environment [Virtual Reality]
 
@@ -45,6 +46,8 @@ ICT Convergence - MS
 - SQLD (2024.3) -> SQLP (2024.8)
 
 
+---
+# Detail
 
 ## vocational training academy - Game Programming Class
 
