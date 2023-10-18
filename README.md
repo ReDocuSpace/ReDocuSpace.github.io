@@ -70,25 +70,12 @@ ICT Convergence - MS(Masters Degree)
 ## Single Study Project
 
 - C/C++/WINAPI/DIRECT3
-    - CSGP(ConSole Game Pack) Project
+    - git : [C Game Development](https://github.com/ReDocuSpace/SingleProject_Unity)
 - USE_ENGINE (UNITY / Unreal)
+    - git : [Unity Game Development](https://github.com](https://github.com/ReDocuSpace/SingleProject_C)
 
-### PortFolio
-
-## PortFolio
-
-Game PortFolio
-- CSGP (ConSole Game Pack) : C++ [ 현재 개발 완료 ]
-- Shooting Game : Python [ 현재 개발 완료 ]
-
-- MetaVerse Project : Unity
-
-## Book Organize Information
-
-- [AI 청소년을 위한 최강의 수업]
-  - [책 정보 - YES24](https://cremaclub.yes24.com/BookClub/Detail/105245103)
+- ### PortFolio
 
 
-## Metaverse
 
-#### Image List
+
