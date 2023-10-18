@@ -88,10 +88,6 @@ Game PortFolio
 - [AI 청소년을 위한 최강의 수업]
   - [책 정보 - YES24](https://cremaclub.yes24.com/BookClub/Detail/105245103)
 
-## Repositories
-
-
-## AI Class
 
 ## Metaverse
 
