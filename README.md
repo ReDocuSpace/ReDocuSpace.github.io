@@ -44,7 +44,11 @@ ICT Convergence - MS(Masters Degree)
 - 컴퓨터활용능력 1급 [Computer Specialist in Spreadsheet and DataBase] (2023.12)
 - 정보처리 기사 [Enginner Infomation Processing] (2024. 3)
 - SQLD (2024.3) -> SQLP (2024.8)
+---
+# Time Detail
 
+- [2023.09.13 - 2024.04.25] AI_Class   
+- [2023.10.23 - 2024.12.31] Game Programming Class (Renual)    
 
 ---
 # Detail
