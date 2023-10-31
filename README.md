@@ -48,8 +48,6 @@ ICT Convergence - MS(Masters Degree)
 # Time Detail
 
 - [2023.09.13 - 2024.04.25] AI_Class   
-- [2023.10.23 - 2024.12.31] Game Programming Class (Renual)    
-
 
 
 
