@@ -14,15 +14,10 @@
   - [2020.07 - 2021.12] Unity - C# [AR Contents Development]
   - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint [Autonomous Driving]
 
-- Game Programming
-  - PortFolio
+- PortFolio
+  - [Game Development](https://github.com/ReDocuSpace/Game_Development)
+  - [Front-Back-Development](https://github.com/ReDocuSpace/Front_Back_Development)
 
-- AIClass
-  - PortFolio
-    - [2023.09.21 - 2023.10.10] (Team) ShootingGame - Python
-    - [2023.10.16 - ] (Single) JAVAProject - JAVA
-    - [2023.10.?] (Team)
- 
 - Blog [관리 시작 2023.11.01 ~ ]
   - https://blog.naver.com/redocument
   - https://redocument.tistory.com/
