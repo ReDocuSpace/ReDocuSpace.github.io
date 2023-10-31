@@ -14,10 +14,6 @@
   - [2020.07 - 2021.12] Unity - C# [AR Contents Development]
   - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint [Autonomous Driving]
 
-- Single Project
-  - PortFolio
-    - [2023.07 - 2023.07] CSGP - C/C++
-    - [2023.10.02 - ] Metaverse Project - Unity
 - Game Programming
   - PortFolio
 
@@ -26,6 +22,10 @@
     - [2023.09.21 - 2023.10.10] (Team) ShootingGame - Python
     - [2023.10.16 - ] (Single) JAVAProject - JAVA
     - [2023.10.?] (Team)
+ 
+- Blog [관리 시작 2023.11.01 ~ ]
+  - https://blog.naver.com/redocument
+  - https://redocument.tistory.com/
   
 ## Career
 
@@ -50,35 +50,6 @@ ICT Convergence - MS(Masters Degree)
 - [2023.09.13 - 2024.04.25] AI_Class   
 - [2023.10.23 - 2024.12.31] Game Programming Class (Renual)    
 
----
-# Detail
-
-## vocational training academy - Game Programming Class
-
-- git : [Game Development Class](https://github.com/ReDocuSpace/GameDevelopmentClass)
-- period : 2019.09.02 - 2020.03.23
-- User Language : C / C++ / C# / WINAPI / Unity
-
-### PortFolio
-
-## vocational training academy - AI Class
-
-- git : [AI Class](https://github.com/ReDocuSpace/AIClass)
-- period : 2023.09.13 - 2024.04.25
-- User Language : Python, JAVA, JavaScript, MySQL
-- License
-
-### PortFolio
-- [ShootingGame](https://github.com/ReDocuSpace/AIClass/tree/main/Python/Python_Project)
- 
-## Single Study Project
-
-- C/C++/WINAPI/DIRECT3
-    - git : [C Game Development](https://github.com/ReDocuSpace/SingleProject_Unity)
-- USE_ENGINE (UNITY / Unreal)
-    - git : [Unity Game Development](https://github.com](https://github.com/ReDocuSpace/SingleProject_C)
-
-### PortFolio
 
 
 
