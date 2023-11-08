@@ -33,6 +33,8 @@ ICT Convergence - MS(Masters Degree)
     - Human Interaction of Environmental Factor for Virtual Environment [Virtual Reality]
 
 ## License
+- 네트워크 관리사 2급 [2012.08]
+- 워드프로세서 단일등급 [2014.07]
 - 정보처리 산업기사 [Industrial Enginner Infomation Processing] (2016. 04. 24) 
 
 ## License Goal [ not achieved ]
@@ -40,6 +42,21 @@ ICT Convergence - MS(Masters Degree)
 - 정보처리 기사 [Enginner Infomation Processing] (2024. 3)
 - SQLD (2024.3) -> SQLP (2024.8)
 ---
+
+## Portfolio Goal
+
+### Single Project
+- [C++ Console] CSGP Project
+- [JAVA] Server Management Program
+
+### TEAM Project
+- [PYTHON - SHOOTING GAME PROJECT] (제작 완료)
+- [JAVA/WEB - BACKEND] 미정...
+
+### STUDY PDF 
+- Game Programming
+
+
 # Time Detail
 
 - [2023.09.13 - 2024.04.25] AI_Class   
