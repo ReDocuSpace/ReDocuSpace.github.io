@@ -14,13 +14,6 @@
   - [2020.07 - 2021.12] Unity - C# [AR Contents Development]
   - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint [Autonomous Driving]
 
-- PortFolio
-  - [Game Development](https://github.com/ReDocuSpace/Game_Development)
-  - [Front-Back-Development](https://github.com/ReDocuSpace/Front_Back_Development)
-
-- Blog [관리 시작 2023.11.01 ~ ]
-  - https://blog.naver.com/redocument
-  - https://redocument.tistory.com/
   
 ## Career
 
