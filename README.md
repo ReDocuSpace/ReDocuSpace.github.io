@@ -10,6 +10,15 @@
   - C/C++, C#, Unity [2019.09 - 2020.04]
   - Python, JAVA [2023.09 - 2024.04]
 
+- Use Module
+  - UnityC#    [C]
+  - UnrealC++  [C]
+  - WINAPI     [C]
+  - Pandas     [Python]
+  - Numpy      [Python]
+  - Pygame     [Python]
+    
+
 - Use Language [Working]
   - [2020.07 - 2021.12] Unity - C# [AR Contents Development]
   - [2022.06 - 2023.05] Unreal Engine - C++ / BluePrint [Autonomous Driving]
