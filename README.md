@@ -5,7 +5,7 @@
 - NickName : Re_Docu
 - Main : Game Client Programming
   - sub : Human Computer Interaction ( ICT Convergence )
-  - sub : Data Ana
+  - sub : Data Analytics
  
 - Use Language [Stydy]
   - C/C++, C#, Unity [2019.09 - 2020.04]
