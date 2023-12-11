@@ -5,18 +5,19 @@
 - NickName : Re_Docu
 - Main : Game Client Programming
   - sub : Human Computer Interaction ( ICT Convergence )
+  - sub : Data Ana
  
 - Use Language [Stydy]
   - C/C++, C#, Unity [2019.09 - 2020.04]
   - Python, JAVA [2023.09 - 2024.04]
 
 - Use Module
-  - UnityC#    [C]
-  - UnrealC++  [C]
-  - WINAPI     [C]
-  - Pandas     [Python]
-  - Numpy      [Python]
-  - Pygame     [Python]
+  - UnityC#    [C]      2020.07 - 2021.12
+  - UnrealC++  [C]      2022.06 - 2023.05
+  - WINAPI     [C]      2019.07 - 2020.03
+  - Pandas     [Python] 2023.09 - 진행중
+  - Numpy      [Python] 2023.09 - 진행중
+  - Pygame     [Python] 2023.09 - 진행중
     
 
 - Use Language [Working]
